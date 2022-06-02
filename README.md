@@ -36,5 +36,5 @@ broker.start();
 - evalute { expression, context } => any  
 - convert { xml } => { result(true|false), error?, expression }
 - check { expression } => { result(true|false), error? }  
-- clearCache { expression } => { done } 
+- clearFromCache { objectName } => { done } 
 
