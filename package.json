@@ -1,6 +1,6 @@
 {
     "name": "imicros-feel",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Andreas Leinen <andreas.leinen@imicros.de> (www.imicros.de)",
     "license": "MIT",
     "description": "DMN FEEL service for imicros-backend",
@@ -38,7 +38,7 @@
         "moleculer": "^0.14.21"
     },
     "dependencies": {
-        "imicros-feel-interpreter": "^0.0.6",
+        "imicros-feel-interpreter": "^0.0.7",
         "uuid": "^8.3.2"
     }
 }
